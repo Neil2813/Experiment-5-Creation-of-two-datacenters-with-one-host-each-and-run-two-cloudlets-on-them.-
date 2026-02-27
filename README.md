@@ -115,6 +115,7 @@ Cloudlet 3 | Length: 80000 | VM: 1 | Datacenter: 3 | Time: 160.0
 
 ## Result
 The simulation successfully executed tasks submitted by multiple users across two datacenters. Cloudlets were scheduled based on available resources and executed accordingly.
+<img width="789" height="232" alt="e44" src="https://github.com/user-attachments/assets/7aeac513-9d79-4331-baea-77ec28f4a20b" />
 
 ---
 
